@@ -1,0 +1,26 @@
+.landing__title {
+  font-weight: 600;
+  font-size: 70px;
+  line-height: 85px;
+  color: #306DBA;
+}
+.landing__btn {
+  width: 296px;
+  height: 50px;
+  background: #FFFFFF;
+  border-radius: 10px;
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 23px;
+  text-align: center;
+  color: #060606;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  transition: .3s;
+}
+.landing__btn:hover {
+  background: #060606;
+  color: #FFFFFF;
+  transition: .3s;
+}
